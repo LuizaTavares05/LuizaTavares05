@@ -14,9 +14,9 @@
 
 Sou desenvolvedora de software com foco em **Back-end utilizando Java e Spring Boot**, apaixonada por construir aplicações escaláveis, organizadas e de fácil manutenção.
 
-Atualmente participo de projetos de **Computação de Alto Desempenho (HPC)** no **LNCC**, trabalhando com paralelização e otimização de código para aplicações científicas.
+Concluí recentemente a **Residência em TIC do Serratec**, desenvolvendo soluções para clientes reais utilizando metodologias ágeis.
 
-Também concluí a **Residência em TIC do Serratec**, desenvolvendo soluções para clientes reais utilizando metodologias ágeis.
+Também estou no 5° período da faculdade de Tecnologia da Informação e da Comunicação na FAETERJ polo Petrópolis-RJ.
 
 ---
 
@@ -100,9 +100,9 @@ Pesquisa científica envolvendo paralelização de aplicações utilizando MPI.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuizaTavares05&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaTavares05&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -110,7 +110,7 @@ Pesquisa científica envolvendo paralelização de aplicações utilizando MPI.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizaTavares05&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -120,7 +120,7 @@ Pesquisa científica envolvendo paralelização de aplicações utilizando MPI.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/lutavares05">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
