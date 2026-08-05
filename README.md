@@ -72,27 +72,11 @@ Também estou no 5° período da faculdade de Tecnologia da Informação e da Co
 
 # ⭐ Projetos em destaque
 
-### 🏠 CRM Imobiliário
-
-Sistema SaaS para gerenciamento de imóveis, clientes e funil de vendas.
-
-**Java • Spring Boot • React • PostgreSQL**
-
----
-
 ### 🌎 Plataforma de Turismo
 
 Sistema desenvolvido durante a Residência Serratec para pesquisadores da UFF.
 
 **Spring Boot • React • PostgreSQL**
-
----
-
-### ⚡ High Performance Computing
-
-Pesquisa científica envolvendo paralelização de aplicações utilizando MPI.
-
-**Python • MPI • Linux**
 
 ---
 
