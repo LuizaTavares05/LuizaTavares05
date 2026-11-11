@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# 👋 Olá! Eu sou a Luiza Tavares
+# 👋 Hi! I'm Luiza Tavares
 
 ### Software Developer • Backend • Java • Spring Boot
 
@@ -10,17 +11,17 @@
 
 ---
 
-## 💙 Sobre mim
+## 💙 About Me
 
-Sou desenvolvedora de software com foco em **Back-end**, utilizando **Java** e **Spring Boot** para desenvolver aplicações escaláveis, seguras e bem estruturadas.
+I'm a software developer focused on **Backend Development**, using **Java** and **Spring Boot** to build scalable, secure, and well-structured applications.
 
-Recentemente concluí a **Residência em TIC do Serratec**, onde participei do desenvolvimento de soluções para clientes reais utilizando metodologias ágeis, arquitetura em camadas e APIs REST.
+I recently completed the **Serratec ICT Residency Program**, where I contributed to developing solutions for real-world clients, applying agile methodologies, layered architecture, and RESTful APIs.
 
-Tenho grande interesse em engenharia de software, arquitetura de sistemas, boas práticas de desenvolvimento e construção de aplicações que gerem impacto para usuários e empresas.
+I'm passionate about software engineering, system architecture, development best practices, and building applications that create meaningful value for users and businesses.
 
 ---
 
-# 🚀 Stack Tecnológica
+# 🚀 Tech Stack
 
 ### 💻 Backend
 
@@ -28,19 +29,19 @@ Tenho grande interesse em engenharia de software, arquitetura de sistemas, boas 
 <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </p>
 
-### 🎨 Front-end
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>
 
-### 🗄 Banco de Dados
+### 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-### ⚙ Ferramentas
+### ⚙ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea" />
@@ -48,27 +49,27 @@ Tenho grande interesse em engenharia de software, arquitetura de sistemas, boas 
 
 ---
 
-# 📚 Atualmente estudando
+# 📚 Currently Learning
 
 - Spring Security
 - Docker
-- Testes Automatizados
-- Microsserviços
-- Arquitetura de Software
+- Automated Testing
+- Microservices
+- Software Architecture
 - Clean Code
 
 ---
 
-# ⭐ Projetos em destaque
+# ⭐ Featured Projects
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| 🌎 **Plataforma de Turismo** | Plataforma desenvolvida durante a Residência Serratec para pesquisadores e usuários, integrando mapas, clima e gerenciamento de questionários e visualização de indicadores em dashboards.. | Java • Spring Boot • React • PostgreSQL |
-| 🔐 **API REST com JWT** | API para autenticação, autorização e gerenciamento de usuários utilizando arquitetura em camadas. | Spring Boot • JWT • PostgreSQL |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🌎 **Tourism Platform** | A platform developed during the Serratec Residency Program for researchers and users, integrating interactive maps, weather information, questionnaire management, and data visualization through dashboards. | Java • Spring Boot • React • PostgreSQL |
+| 🔐 **REST API with JWT** | An API for authentication, authorization, and user management, built using a layered architecture. | Spring Boot • JWT • PostgreSQL |
 
 ---
 
-# 📈 Estatísticas do GitHub
+# 📈 GitHub Stats
 
 <div align="center">
 
@@ -78,7 +79,7 @@ Tenho grande interesse em engenharia de software, arquitetura de sistemas, boas 
 
 ---
 
-# 🤝 Vamos nos conectar
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -92,8 +93,8 @@ Tenho grande interesse em engenharia de software, arquitetura de sistemas, boas 
 
 <div align="center">
 
-### ✨ Obrigada por visitar meu perfil!
+### ✨ Thanks for visiting my profile!
 
-Sempre aberta a novas oportunidades, aprendizados e desafios na área de desenvolvimento de software.
+Always open to new opportunities, learning experiences, and challenges in software development.
 
 </div>
